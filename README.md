@@ -94,29 +94,78 @@ Text analytics, topic modeling, and sentiment analysis.
 ## 🔹 Recommendation Systems
 User and item-based recommendation engines.
 
-- Project 1: 🔗 **[Hugging Face Space Link]**  
-- Project 2: 🔗 **[Hugging Face Space Link]**  
-- Project 3: 🔗 **[Hugging Face Space Link]**
+- Project : 🔗 **[
+---
+
+# 🚀 Hugging Face Spaces – Live Applications
+
+All trained models were deployed using **Streamlit** and published on **Hugging Face Spaces**.  
+Below are the deployment links for each project category.
+
+---
+
+## 🔹 Regression Projects
+Live demos of regression-based predictive models.
+
+- Project : 🔗 **[[Hugging Face Space Link](https://huggingface.co/spaces/deneme123421/regression_example)]**  
+
+
+---
+
+## 🔹 Classification Projects
+Binary and multi-class classification applications.
+
+- Project : 🔗 **[[Hugging Face Space Link](https://huggingface.co/spaces/deneme123421/classification_ml)]**  
+
+---
+
+## 🔹 Clustering Projects
+Unsupervised learning and segmentation models.
+
+- Project : 🔗 **[[Hugging Face Space Link](https://huggingface.co/spaces/deneme123421/clustering_example)]**  
+
+
+---
+
+## 🔹 Computer Vision Projects
+Image processing and deep learning-based vision models.
+
+- Project 1: 🔗 **[[Hugging Face Space Link](https://huggingface.co/spaces/deneme123421/computer_vision_example)]**  
+
+
+---
+
+## 🔹 Natural Language Processing (NLP) Projects
+Text analytics, topic modeling, and sentiment analysis.
+
+- Project : 🔗 **[[Hugging Face Space Link](https://huggingface.co/spaces/deneme123421/nlp_example)]**  
+
+---
+
+## 🔹 Recommendation Systems
+User and item-based recommendation engines.
+
+- Project : 🔗 **[[deneme123421/Recommendation_system](https://huggingface.co/spaces/deneme123421/Recommendation_system)]**  
+
 
 ---
 
 ## 🔹 Time Series Projects
 Forecasting and sequential data modeling.
 
-- Project 1: 🔗 **[Hugging Face Space Link]**  
-- Project 2: 🔗 **[Hugging Face Space Link]**  
-- Project 3: 🔗 **[Hugging Face Space Link]**
+- Project : 🔗 **[[Hugging Face Space Link](https://huggingface.co/spaces/deneme123421/Time_series_example)]**  
+
 
 ---
 
-## 🔹 Deep Learning Projects
+## 🔹 Data Visualization
 Neural network-based applications.
 
-- Project 1: 🔗 **[Hugging Face Space Link]**  
-- Project 2: 🔗 **[Hugging Face Space Link]**  
-- Project 3: 🔗 **[Hugging Face Space Link]**
+- Project : 🔗 **[[Hugging Face Space Link](https://huggingface.co/spaces/deneme123421/Data_Visualization)]**  
+
 
 ---
+
 
 ## 💾 Model Saving
 
@@ -154,10 +203,8 @@ Through this project portfolio, I gained hands-on experience in:
 
 ## 👤 Author
 
-**Name:** Ömer Can  
+**Name:** Yunus Emre Ünal  
 **Course:** Data Science Specialization  
-**Instructor:** Ömer Can  
-**Submission Deadline:** January 11, 2026
 
 ---
 
@@ -166,4 +213,5 @@ Through this project portfolio, I gained hands-on experience in:
 - https://python.plainenglish.io/85-data-science-projects-c03c8750599e  
 - https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265  
 - https://huggingface.co/spaces
+
 
