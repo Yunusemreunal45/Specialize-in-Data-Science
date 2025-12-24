@@ -18,7 +18,7 @@ Each project includes:
 
 ## 📌 Assignment Overview
 
-For this assignment, **3 projects** were selected and implemented from each of the following topics:
+For this assignment, **3 projects** were selected and implemented from each of the following topics and contains deep learning some project:
 
 | Topic | Number of Projects |
 |------|-------------------|
@@ -29,73 +29,13 @@ For this assignment, **3 projects** were selected and implemented from each of t
 | Natural Language Processing (NLP) | 3 |
 | Recommendation Systems | 3 |
 | Time Series | 3 |
-| Deep Learning | 3 |
+| Data Visualization | 3 |
 | **Total** | **21 Projects** |
 
 ---
 
 ## 📂 Repository Structure
 
-
----
-
-# 🚀 Hugging Face Spaces – Live Applications
-
-All trained models were deployed using **Streamlit** and published on **Hugging Face Spaces**.  
-Below are the deployment links for each project category.
-
----
-
-## 🔹 Regression Projects
-Live demos of regression-based predictive models.
-
-- Project 1: 🔗 **[Hugging Face Space Link]**  
-- Project 2: 🔗 **[Hugging Face Space Link]**  
-- Project 3: 🔗 **[Hugging Face Space Link]**
-
----
-
-## 🔹 Classification Projects
-Binary and multi-class classification applications.
-
-- Project 1: 🔗 **[Hugging Face Space Link]**  
-- Project 2: 🔗 **[Hugging Face Space Link]**  
-- Project 3: 🔗 **[Hugging Face Space Link]**
-
----
-
-## 🔹 Clustering Projects
-Unsupervised learning and segmentation models.
-
-- Project 1: 🔗 **[Hugging Face Space Link]**  
-- Project 2: 🔗 **[Hugging Face Space Link]**  
-- Project 3: 🔗 **[Hugging Face Space Link]**
-
----
-
-## 🔹 Computer Vision Projects
-Image processing and deep learning-based vision models.
-
-- Project 1: 🔗 **[Hugging Face Space Link]**  
-- Project 2: 🔗 **[Hugging Face Space Link]**  
-- Project 3: 🔗 **[Hugging Face Space Link]**
-
----
-
-## 🔹 Natural Language Processing (NLP) Projects
-Text analytics, topic modeling, and sentiment analysis.
-
-- Project 1: 🔗 **[Hugging Face Space Link]**  
-- Project 2: 🔗 **[Hugging Face Space Link]**  
-- Project 3: 🔗 **[Hugging Face Space Link]**
-
----
-
-## 🔹 Recommendation Systems
-User and item-based recommendation engines.
-
-- Project : 🔗 **[
----
 
 # 🚀 Hugging Face Spaces – Live Applications
 
@@ -213,5 +153,6 @@ Through this project portfolio, I gained hands-on experience in:
 - https://python.plainenglish.io/85-data-science-projects-c03c8750599e  
 - https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265  
 - https://huggingface.co/spaces
+
 
 
